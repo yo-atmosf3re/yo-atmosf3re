@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-atmosf3re&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-atmosf3re&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yo-atmosf3re/yo-atmosf3re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
