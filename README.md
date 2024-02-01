@@ -1,8 +1,8 @@
 <div align="center">
 
-![yo-atmosf3re GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-atmosf3re&show_icons=true&theme=radical&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-atmosf3re&hide=css,html&layout=compact&bg_color=00000000)
+
+![yo-atmosf3re GitHub stats](https://github-readme-stats.vercel.app/api?username=yo-atmosf3re&show_icons=true&theme=radical&include_all_commits=true)
 
 </div>
 
